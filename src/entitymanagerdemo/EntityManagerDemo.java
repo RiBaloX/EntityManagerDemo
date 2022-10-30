@@ -41,7 +41,7 @@ public class EntityManagerDemo {
   
         
         //printCustomerByCity
-        List<Address> AddressList = findCustomerByCity("Bangkok");
+
         printCustomerByCity("Bangkok");
 
     }
